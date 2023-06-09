@@ -1,0 +1,4 @@
+Bundle-Name: user-register
+Bundle-SymbolicName: user.register
+Bundle-Version: 1.0.0
+Export-Package: user.register.constants
