@@ -28,9 +28,9 @@ import user.register.constants.UserRegisterPortletKeys;
 @Component(
 	immediate = true,
 	property = {
-		"com.liferay.portlet.display-category=category.sample",
+		"com.liferay.portlet.display-category=category.custom",
 		"com.liferay.portlet.header-portlet-css=/css/main.css",
-		"com.liferay.portlet.instanceable=true",
+		"com.liferay.portlet.instanceable=false",
 		"javax.portlet.display-name=UserRegister",
 		"javax.portlet.init-param.template-path=/",
 		"javax.portlet.init-param.view-template=/view.jsp",
